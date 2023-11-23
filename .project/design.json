@@ -1,0 +1,9 @@
+{
+  "Tags": [
+    {
+      "Key": "WebAutomation"
+    }
+  ],
+  "SeparateRuntimeDependencies": true,
+  "IncludeSources": true
+}
